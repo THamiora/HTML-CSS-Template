@@ -1,4 +1,26 @@
-.this-is-a-css-class{
-  background-color: rgb(255, 194, 119);
-  align-content: center;
+body{
+  background-color:rgb(250,225,36) ;
 }
+
+
+.this-is-a-css-class{
+  background-color: rgb(251, 62, 52);
+  align-content: center;
+  
+}
+
+p{
+    font-size: 49px;
+ }
+
+ h2{
+  font-family: Lobster, monospace;
+  border-color: rgb(250, 225, 36);
+ border-width: 5px;
+ border-style: solid;
+ }
+ 
+ .background{
+   background-image: url("/images/23-231659_giannis-antetokounmpo-wallpaper-hope-you-guys-are-off.jpg");
+   
+ }
